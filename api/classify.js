@@ -46,12 +46,13 @@ module.exports = async (req, res) => {
         'content-type': 'application/json'
       },
       body: JSON.stringify({
-        model, max_tokens: 1024, temperature: 0, system: SYSTEM,
+        model, max_tokens: 1024, system: SYSTEM,
         messages: [{ role: 'user', content: 'Claim notes:\n"""\n' + notes + '\n"""' }]
       })
     });
     if (!ar.ok) {
       const t = await ar.text();
+      console.error('ANTHROPIC_ERROR classify', ar.status, t.slice(0, 500));
       res.status(502).json({ configured: true, error: 'anthropic_error', status: ar.status, detail: t.slice(0, 400) });
       return;
     }
