@@ -57,7 +57,7 @@ module.exports = async (req, res) => {
       return;
     }
     const data = await ar.json();
-    const text = (data.content && data.content[0] && data.content[0].text) || '';
+    const text = extractText(data);
     const result = extractJson(text);
     if (!result) { res.status(502).json({ configured: true, error: 'parse_error', raw: text.slice(0, 400) }); return; }
     res.status(200).json({ configured: true, model, result });
@@ -74,6 +74,12 @@ function readJson(req) {
     req.on('end', () => { try { resolve(JSON.parse(d || '{}')); } catch (_) { resolve({}); } });
     req.on('error', () => resolve({}));
   });
+}
+function extractText(data) {
+  if (!data || !Array.isArray(data.content)) return '';
+  return data.content
+    .filter(b => b && b.type === 'text' && typeof b.text === 'string')
+    .map(b => b.text).join('\n').trim();
 }
 function extractJson(t) {
   if (!t) return null;

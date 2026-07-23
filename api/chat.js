@@ -44,13 +44,19 @@ module.exports = async (req, res) => {
       return;
     }
     const data = await ar.json();
-    const reply = (data.content && data.content[0] && data.content[0].text) || '';
+    const reply = extractText(data);
     res.status(200).json({ configured: true, model, reply });
   } catch (e) {
     res.status(500).json({ configured: true, error: String((e && e.message) || e) });
   }
 };
 
+function extractText(data) {
+  if (!data || !Array.isArray(data.content)) return '';
+  return data.content
+    .filter(b => b && b.type === 'text' && typeof b.text === 'string')
+    .map(b => b.text).join('\n').trim();
+}
 function buildContext(ctx) {
   let s = 'CONTEXT';
   if (ctx.claim) {
