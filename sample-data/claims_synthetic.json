@@ -1,0 +1,332 @@
+[
+  {
+    "claim_id": "WC-889120",
+    "date_of_loss": "2026-05-14",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "TX",
+    "case_reserve_usd": 250000,
+    "loss_description": "Employee fell from scaffolding at approximately 30 feet during roofing operations. Coworkers initiated CPR on site. Claimant transported to Regional Trauma Center with severe head trauma and internal injuries. Despite resuscitation efforts, the claimant was pronounced deceased at 14:22. Survived by spouse and two dependents. OSHA notified; fatality benefits and dependency claim under review.",
+    "expected_label": "Qualifies",
+    "expected_category": "Death / Fatality"
+  },
+  {
+    "claim_id": "AL-990455",
+    "date_of_loss": "2026-04-02",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "FL",
+    "case_reserve_usd": 400000,
+    "loss_description": "Head-on collision on Route 27. The insured driver crossed the center line striking a family sedan. The other driver died at the scene; two passengers hospitalized. Fatal accident report filed by state police. Wrongful death action anticipated.",
+    "expected_label": "Qualifies",
+    "expected_category": "Death / Fatality"
+  },
+  {
+    "claim_id": "GL-771882",
+    "date_of_loss": "2026-03-19",
+    "line_of_business": "General Liability",
+    "jurisdiction": "NY",
+    "case_reserve_usd": 600000,
+    "loss_description": "Guest at insured hotel drowned in unsupervised pool after hours. Coroner confirmed cause of death as accidental drowning. No lifeguard on duty. Estate has retained counsel. Note: pool pump had a dead battery in the backup timer, unrelated to the incident.",
+    "expected_label": "Qualifies",
+    "expected_category": "Death / Fatality"
+  },
+  {
+    "claim_id": "WC-660214",
+    "date_of_loss": "2026-02-27",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "OH",
+    "case_reserve_usd": 300000,
+    "loss_description": "Forklift tip-over in warehouse. Operator sustained crush injuries to the chest and was killed instantly per the responding paramedics. Site shut down pending investigation. Dependency benefits opened.",
+    "expected_label": "Qualifies",
+    "expected_category": "Death / Fatality"
+  },
+  {
+    "claim_id": "ML-552019",
+    "date_of_loss": "2026-06-08",
+    "line_of_business": "Marine",
+    "jurisdiction": "Singapore",
+    "case_reserve_usd": 900000,
+    "loss_description": "Crew member swept overboard during heavy seas. After a three-day search the seafarer was presumed dead and the search was suspended by the coast guard. Death in service benefits triggered under the collective agreement.",
+    "expected_label": "Qualifies",
+    "expected_category": "Death / Fatality"
+  },
+  {
+    "claim_id": "AL-771204",
+    "date_of_loss": "2026-05-01",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "CA",
+    "case_reserve_usd": 250000,
+    "loss_description": "Pedestrian struck in crosswalk. Diagnosed with traumatic brain injury and a T6 spinal fracture with loss of motor function below the waist. Admitted to neuro-ICU; prolonged rehabilitation expected. Permanent impairment anticipated.",
+    "expected_label": "Qualifies",
+    "expected_category": "Traumatic Brain Injury"
+  },
+  {
+    "claim_id": "GL-233981",
+    "date_of_loss": "2026-01-22",
+    "line_of_business": "General Liability",
+    "jurisdiction": "IL",
+    "case_reserve_usd": 180000,
+    "loss_description": "Falling merchandise from a warehouse rack struck a customer on the head. Imaging showed a subdural hematoma and the patient lapsed into a coma for six days. Diagnosed with severe traumatic brain injury; cognitive deficits reported at discharge.",
+    "expected_label": "Qualifies",
+    "expected_category": "Traumatic Brain Injury"
+  },
+  {
+    "claim_id": "WC-410773",
+    "date_of_loss": "2026-04-17",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "PA",
+    "case_reserve_usd": 210000,
+    "loss_description": "Worker struck by swinging steel beam. Sustained a depressed skull fracture with intracranial hemorrhage. Emergency craniotomy performed. Ongoing anoxic brain injury noted in neurology consult.",
+    "expected_label": "Qualifies",
+    "expected_category": "Traumatic Brain Injury"
+  },
+  {
+    "claim_id": "AL-118440",
+    "date_of_loss": "2026-03-05",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "GA",
+    "case_reserve_usd": 500000,
+    "loss_description": "Motorcyclist rear-ended at speed. MRI confirmed a C5 cervical spinal cord injury resulting in quadriplegia. Claimant ventilator-dependent. Lifetime attendant care projected. Catastrophic reserve requested.",
+    "expected_label": "Qualifies",
+    "expected_category": "Spinal Cord / Paralysis"
+  },
+  {
+    "claim_id": "WC-905331",
+    "date_of_loss": "2026-02-11",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "NC",
+    "case_reserve_usd": 450000,
+    "loss_description": "Trench collapse buried worker to the chest. Diagnosed with a burst fracture at L1 with paraplegia and permanent loss of motor function in both legs. Wheelchair dependency confirmed.",
+    "expected_label": "Qualifies",
+    "expected_category": "Spinal Cord / Paralysis"
+  },
+  {
+    "claim_id": "GL-330120",
+    "date_of_loss": "2026-05-29",
+    "line_of_business": "General Liability",
+    "jurisdiction": "NV",
+    "case_reserve_usd": 380000,
+    "loss_description": "Diving into shallow end of insured's pool, guest sustained a cervical fracture with spinal cord damage. Now paralyzed from the neck down. Rehabilitation and home modification costs pending.",
+    "expected_label": "Qualifies",
+    "expected_category": "Spinal Cord / Paralysis"
+  },
+  {
+    "claim_id": "GL-407733",
+    "date_of_loss": "2026-04-25",
+    "line_of_business": "General Liability",
+    "jurisdiction": "IL",
+    "case_reserve_usd": 180000,
+    "loss_description": "Operator's right hand was caught in an unguarded hydraulic press during a production run. Emergency surgery was performed; surgeons were unable to save the hand and a below-elbow amputation of the right arm was completed. The claimant is right-hand dominant. A prosthetic evaluation has been scheduled and extended vocational disability is anticipated. Note: an earlier unrelated log mentioned a dead-man switch safety device on the adjacent machine.",
+    "expected_label": "Qualifies",
+    "expected_category": "Amputation / Loss of Limb"
+  },
+  {
+    "claim_id": "WC-556788",
+    "date_of_loss": "2026-01-30",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "MI",
+    "case_reserve_usd": 260000,
+    "loss_description": "Meatpacking employee's arm pulled into a grinder. Traumatic amputation of the left arm above the elbow. Reattachment not possible. Fitted for prosthesis; permanent partial disability rating pending.",
+    "expected_label": "Qualifies",
+    "expected_category": "Amputation / Loss of Limb"
+  },
+  {
+    "claim_id": "AL-224100",
+    "date_of_loss": "2026-06-02",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "TX",
+    "case_reserve_usd": 300000,
+    "loss_description": "Motorcycle versus guardrail. Claimant's leg was severed below the knee at the scene; paramedics applied a tourniquet. Surgical completion of the below-knee amputation performed at trauma center.",
+    "expected_label": "Qualifies",
+    "expected_category": "Amputation / Loss of Limb"
+  },
+  {
+    "claim_id": "ML-889003",
+    "date_of_loss": "2026-03-14",
+    "line_of_business": "Marine",
+    "jurisdiction": "UK",
+    "case_reserve_usd": 340000,
+    "loss_description": "Dockworker's foot crushed under a container. After failed revascularization, a partial foot amputation was performed. Two toes on the opposite foot were also lost. Prosthetic and mobility aids ordered.",
+    "expected_label": "Qualifies",
+    "expected_category": "Amputation / Loss of Limb"
+  },
+  {
+    "claim_id": "GL-660491",
+    "date_of_loss": "2026-05-08",
+    "line_of_business": "General Liability",
+    "jurisdiction": "AZ",
+    "case_reserve_usd": 420000,
+    "loss_description": "Grease fire at insured restaurant. Line cook sustained third-degree burns across 30% TBSA to the arms and torso. Admitted to regional burn unit; multiple skin graft surgeries scheduled. Permanent scarring expected.",
+    "expected_label": "Qualifies",
+    "expected_category": "Severe Burns"
+  },
+  {
+    "claim_id": "WC-332876",
+    "date_of_loss": "2026-02-19",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "LA",
+    "case_reserve_usd": 380000,
+    "loss_description": "Electrical arc flash during panel maintenance. Full-thickness burns to both hands and face. Inhalation burn injury noted; intubated on admission. Grafting and reconstructive surgery planned.",
+    "expected_label": "Qualifies",
+    "expected_category": "Severe Burns"
+  },
+  {
+    "claim_id": "AL-556201",
+    "date_of_loss": "2026-04-11",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "MO",
+    "case_reserve_usd": 95000,
+    "loss_description": "Post-collision engine fire. Claimant sustained first-degree burns to the forearm, treated with topical care only. Physicians initially raised concern for a possible amputation of two fingers due to a crush injury, but the digits were ultimately saved with no surgical amputation performed. Claimant discharged after 48 hours with follow-up ordered to monitor tissue viability.",
+    "expected_label": "Review",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "GL-771330",
+    "date_of_loss": "2026-03-27",
+    "line_of_business": "General Liability",
+    "jurisdiction": "WA",
+    "case_reserve_usd": 300000,
+    "loss_description": "Chemical splash at insured car wash. Claimant sustained corrosive injury to both eyes resulting in permanent bilateral vision loss. Ophthalmology confirms legal blindness. Guide-dog and vocational retraining costs anticipated.",
+    "expected_label": "Qualifies",
+    "expected_category": "Blindness / Loss of Sight"
+  },
+  {
+    "claim_id": "WC-224655",
+    "date_of_loss": "2026-01-15",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "IN",
+    "case_reserve_usd": 220000,
+    "loss_description": "Grinding wheel shattered; fragment penetrated the right eye. Enucleation of the eye required. Optic nerve damage confirmed; permanent loss of sight in the affected eye.",
+    "expected_label": "Qualifies",
+    "expected_category": "Blindness / Loss of Sight"
+  },
+  {
+    "claim_id": "AL-905112",
+    "date_of_loss": "2026-06-20",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "CO",
+    "case_reserve_usd": 180000,
+    "loss_description": "Airbag deployment drove debris into the driver's eyes. Initial concern for loss of vision; however, corneal treatment succeeded and vision was fully restored at follow-up. No permanent impairment. Claim closing.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "AL-118990",
+    "date_of_loss": "2026-05-22",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "TN",
+    "case_reserve_usd": 260000,
+    "loss_description": "High-speed multi-vehicle pile-up. Claimant sustained polytrauma including multiple rib fractures, an open femur fracture, and a comminuted pelvic fracture. Multiple orthopedic surgeries required. Prolonged disability expected.",
+    "expected_label": "Qualifies",
+    "expected_category": "Multiple Fractures / Disfigurement"
+  },
+  {
+    "claim_id": "GL-330876",
+    "date_of_loss": "2026-02-03",
+    "line_of_business": "General Liability",
+    "jurisdiction": "OR",
+    "case_reserve_usd": 240000,
+    "loss_description": "Fall from insured's defective mezzanine railing. Multiple fractures to both wrists and facial bones with significant facial disfigurement. Reconstructive surgery ongoing.",
+    "expected_label": "Qualifies",
+    "expected_category": "Multiple Fractures / Disfigurement"
+  },
+  {
+    "claim_id": "WC-660903",
+    "date_of_loss": "2026-04-30",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "KY",
+    "case_reserve_usd": 210000,
+    "loss_description": "Scaffolding collapse. Worker suffered crushed pelvis and multiple open fractures of both legs. External fixation applied; multiple surgeries anticipated. Long-term impairment likely.",
+    "expected_label": "Qualifies",
+    "expected_category": "Multiple Fractures / Disfigurement"
+  },
+  {
+    "claim_id": "ALB-2231847",
+    "date_of_loss": "2026-06-11",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "NJ",
+    "case_reserve_usd": 95000,
+    "loss_description": "Insured vehicle experienced a dead battery at a stoplight and would not restart. While waiting for roadside assistance, the claimant's vehicle was struck from behind at low speed. Claimant reported neck stiffness and a fractured left wrist. Treated at urgent care and released the same day; no loss of consciousness and no surgical intervention. Property damage limited to the rear bumper. A dead raccoon was noted in the roadway nearby but was not a contributing factor to the collision.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "AL-447120",
+    "date_of_loss": "2026-05-17",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "PA",
+    "case_reserve_usd": 30000,
+    "loss_description": "Single-vehicle loss. Driver swerved to avoid a dead deer in the road and struck a mailbox. Minor property damage; driver reported no injuries and declined medical treatment at the scene.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "GL-556340",
+    "date_of_loss": "2026-03-08",
+    "line_of_business": "General Liability",
+    "jurisdiction": "OH",
+    "case_reserve_usd": 40000,
+    "loss_description": "Slip and fall in insured's parking lot near a dead-end aisle. Claimant reported a bruised knee. First aid administered; no fractures on X-ray. Released with over-the-counter pain relief.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "WC-118220",
+    "date_of_loss": "2026-02-25",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "IL",
+    "case_reserve_usd": 25000,
+    "loss_description": "Employee reported repetitive strain after a project deadline crunch. Ergonomic assessment ordered. No acute injury. Light-duty accommodation provided; expected full recovery.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "ML-330551",
+    "date_of_loss": "2026-04-19",
+    "line_of_business": "Marine",
+    "jurisdiction": "US",
+    "case_reserve_usd": 60000,
+    "loss_description": "Cargo shift claim. A dead-weight load was improperly secured and shifted in transit, denting several containers. No personal injury reported; cargo damage only. Surveyor assigned.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "GL-905778",
+    "date_of_loss": "2026-01-09",
+    "line_of_business": "General Liability",
+    "jurisdiction": "CA",
+    "case_reserve_usd": 35000,
+    "loss_description": "Guest tripped over a dead-man switch cover plate on gym equipment and twisted an ankle. Ice applied on site. No fracture; declined ambulance. Follow-up with personal physician advised.",
+    "expected_label": "Does not qualify",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "AL-771990",
+    "date_of_loss": "2026-06-25",
+    "line_of_business": "Auto Liability",
+    "jurisdiction": "MA",
+    "case_reserve_usd": 140000,
+    "loss_description": "T-bone collision. ER physicians initially flagged a possible spinal cord injury; claimant reported transient numbness in the legs. MRI later ruled out cord involvement, but the claimant remains under observation for a suspected herniated disc. Awaiting neurology follow-up before final disposition.",
+    "expected_label": "Review",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "WC-224889",
+    "date_of_loss": "2026-05-03",
+    "line_of_business": "Workers Compensation",
+    "jurisdiction": "WI",
+    "case_reserve_usd": 160000,
+    "loss_description": "Hand caught in conveyor. Two fingers sustained a severe crush injury with concern for amputation; surgeons attempted salvage and the fingers were saved for now, but tissue viability is uncertain and re-operation may be required. Monitoring ordered.",
+    "expected_label": "Review",
+    "expected_category": "None"
+  },
+  {
+    "claim_id": "GL-660120",
+    "date_of_loss": "2026-03-31",
+    "line_of_business": "General Liability",
+    "jurisdiction": "FL",
+    "case_reserve_usd": 120000,
+    "loss_description": "Firework display malfunction. Spectator sustained flash burns to the face with concern for possible vision loss. Ophthalmology reports vision currently intact but retinal monitoring ongoing over the next 30 days.",
+    "expected_label": "Review",
+    "expected_category": "None"
+  }
+]
